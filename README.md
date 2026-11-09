@@ -1,3 +1,5 @@
+> **Archived 2026-11-09 (REPO-CONSOLIDATION-1).** This repository is read-only. Its content now lives in QNFO/qwav-demos, folder `qwav-demo-monna-map-perspective/` (full history). Plan: rwnq8/agent-operating-system `REPOSITORIES.md`.
+
 # QWAV demo: the Monna map perspective
 
 QWAV demo placeholder: the Monna map perspective on the Bruhat-Tits tree, which reads the digits of a p-adic number as the digits of a real number in [0, 1]. No demo has been published yet.
